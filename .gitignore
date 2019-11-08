@@ -1,2 +1,5 @@
 .vscode/
 a.out
+.clang-format
+a.txt
+*.code-workspace
